@@ -1,0 +1,52 @@
+[
+ {
+  "label": "Sin dato",
+  "count": 1045,
+  "share": 0.47760511882998175
+ },
+ {
+  "label": "CIUDAD AUTONOMA BUENOS AIRES",
+  "count": 353,
+  "share": 0.1613345521023766
+ },
+ {
+  "label": "BUENOS AIRES",
+  "count": 266,
+  "share": 0.12157221206581353
+ },
+ {
+  "label": "CORDOBA",
+  "count": 81,
+  "share": 0.0370201096892139
+ },
+ {
+  "label": "FORMOSA",
+  "count": 59,
+  "share": 0.02696526508226691
+ },
+ {
+  "label": "CORRIENTES",
+  "count": 43,
+  "share": 0.019652650822669104
+ },
+ {
+  "label": "TUCUMAN",
+  "count": 38,
+  "share": 0.01736745886654479
+ },
+ {
+  "label": "SANTA CRUZ",
+  "count": 35,
+  "share": 0.015996343692870202
+ },
+ {
+  "label": "ENTRE RIOS",
+  "count": 34,
+  "share": 0.015539305301645339
+ },
+ {
+  "label": "SANTA FE",
+  "count": 33,
+  "share": 0.015082266910420476
+ }
+]

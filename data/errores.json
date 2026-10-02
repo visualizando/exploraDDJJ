@@ -1,0 +1,90 @@
+{
+ "personas": 981,
+ "con_rectificativa": 435,
+ "grupos_multi": 1111,
+ "grupos_total": 9943,
+ "con_cero": 171,
+ "swings": [
+  {
+   "nombre": "Lizziero Germán",
+   "detalle": "Director/a · Administración Nacional de Establecimientos de Salud (ANES)",
+   "tipo": "Lote De Terreno",
+   "m2_24": 1178.0,
+   "m2_25": 0.1,
+   "factor": 11780.0
+  },
+  {
+   "nombre": "Bouille Maria",
+   "detalle": "Coordinador/a · Subsecretaría de Relaciones Parlamentarias e Institucionales",
+   "tipo": "Casa",
+   "m2_24": 277.0,
+   "m2_25": 3000000.0,
+   "factor": 10830.3
+  },
+  {
+   "nombre": "Lizziero Germán",
+   "detalle": "Director/a · Administración Nacional de Establecimientos de Salud (ANES)",
+   "tipo": "Casa",
+   "m2_24": 235.0,
+   "m2_25": 0.1,
+   "factor": 2350.0
+  },
+  {
+   "nombre": "Bacigalupo Gonzalo Eduardo",
+   "detalle": "Director/a · Instituto Nacional de Investigación y Desarrollo Pesquero",
+   "tipo": "Lote De Terreno",
+   "m2_24": 1.0,
+   "m2_25": 900.0,
+   "factor": 900.0
+  },
+  {
+   "nombre": "Sibilla Fernando Jorge",
+   "detalle": "Presidente/a · Fábrica Argentina de Aviones 'Brig. San Martín' S.A.",
+   "tipo": "Casa",
+   "m2_24": 1.0,
+   "m2_25": 700.0,
+   "factor": 700.0
+  },
+  {
+   "nombre": "Agost Carreño Oscar",
+   "detalle": "Diputado · Córdoba · Encuentro Federal",
+   "tipo": "Casa",
+   "m2_24": 1.0,
+   "m2_25": 400.0,
+   "factor": 400.0
+  },
+  {
+   "nombre": "Ansaloni Pablo Miguel",
+   "detalle": "Diputado · Buenos Aires · La Libertad Avanza",
+   "tipo": "Lote De Terreno",
+   "m2_24": 300.0,
+   "m2_25": 1.0,
+   "factor": 300.0
+  },
+  {
+   "nombre": "Lopez María Ángela",
+   "detalle": "Director/a General · Subsecretaría de Gestión Administrativa",
+   "tipo": "Casa",
+   "m2_24": 1.0,
+   "m2_25": 197.0,
+   "factor": 197.0
+  },
+  {
+   "nombre": "Gavassa Gustavo Luis",
+   "detalle": "Subsecretario/a · Subsecretaría de Gestión Administrativa",
+   "tipo": "Casa",
+   "m2_24": 1.0,
+   "m2_25": 187.0,
+   "factor": 187.0
+  },
+  {
+   "nombre": "Alianiello Maria Eugenia",
+   "detalle": "Diputado · Chubut · Unión por la Patria",
+   "tipo": "Lote De Terreno",
+   "m2_24": 300.0,
+   "m2_25": 45000.0,
+   "factor": 150.0
+  }
+ ],
+ "n_swings": 19
+}

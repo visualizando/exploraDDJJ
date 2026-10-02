@@ -1,0 +1,25 @@
+{
+ "personas_consultadas": 1620,
+ "declaraciones": 7937,
+ "filas": 31782,
+ "cuits_con_inmuebles": 981,
+ "filas_pais": 31384,
+ "filas_exterior": 398,
+ "cierre_2025": 2215,
+ "cierre_2024": 2194,
+ "consultados_poder": {
+  "jgm": 529,
+  "judicial": 309,
+  "legisladores": 405,
+  "politicos": 425
+ },
+ "inmuebles_poder": {
+  "legisladores": 346,
+  "politicos": 311,
+  "jgm": 306,
+  "judicial": 18
+ },
+ "partidos": 50,
+ "valuacion_total_2025": 107735976466.81,
+ "personas_cierre_2025": 763
+}

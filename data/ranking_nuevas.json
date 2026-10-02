@@ -1,0 +1,515 @@
+[
+ {
+  "nombre": "Sibilla Fernando Jorge",
+  "cuit": "20267576956",
+  "cargo": "Presidente/a",
+  "detalle": "Presidente/a · Fábrica Argentina de Aviones 'Brig. San Martín' S.A.",
+  "n24": 2,
+  "n25": 14,
+  "nuevas": 13,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 17130000.0,
+    "localidad": "Mendiolaza"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 1470000.0,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 2109297.0,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 3163942.25,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 2109297.0,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 2109297.0,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 1939436.25,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 2403747.0,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 1990996.5,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 2089310.75,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 8309689.5,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 6680857.5,
+    "localidad": "La Carlota"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 14628681.0,
+    "localidad": "La Carlota"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda"
+  ]
+ },
+ {
+  "nombre": "Sanfilippo Damián Eduardo",
+  "cuit": "20214150701",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Energía Eléctrica",
+  "n24": 10,
+  "n25": 13,
+  "nuevas": 4,
+  "altas": [
+   {
+    "tipo": "Departamento",
+    "importe": 480253629.1,
+    "localidad": "Ciudad Autonoma Buenos Aires"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 3824000.0,
+    "localidad": "Rosario"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 3824000.0,
+    "localidad": "Rosario"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 3824000.0,
+    "localidad": "Rosario"
+   }
+  ],
+  "tipos": [
+   "Departamento",
+   "Departamento",
+   "Departamento",
+   "Departamento"
+  ]
+ },
+ {
+  "nombre": "Cisneros Carlos Anibal",
+  "cuit": "20162164040",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Tucumán · Unión por la Patria",
+  "n24": 6,
+  "n25": 6,
+  "nuevas": 4,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 28500807.53,
+    "localidad": "Tafi Del Valle"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 15886665.03,
+    "localidad": "Yerba Buena"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 14925931.7,
+    "localidad": "Yerba Buena"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 4840000.0,
+    "localidad": "San Miguel De Tucuman"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Departamento",
+   "Departamento",
+   "Departamento"
+  ]
+ },
+ {
+  "nombre": "Medina Carlos Eduardo",
+  "cuit": "20119558639",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Asuntos Registrales",
+  "n24": 8,
+  "n25": 11,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Cochera",
+    "importe": 27390000.0,
+    "localidad": "Capital Federal"
+   },
+   {
+    "tipo": "Departamento Con Cochera",
+    "importe": 422672554.22,
+    "localidad": "Capital Federal"
+   },
+   {
+    "tipo": "Cochera",
+    "importe": 61391701.78,
+    "localidad": "Capital Federal"
+   }
+  ],
+  "tipos": [
+   "Cochera",
+   "Departamento Con Cochera",
+   "Cochera"
+  ]
+ },
+ {
+  "nombre": "Gonzalez Maria Teresa Margari",
+  "cuit": "27146328844",
+  "cargo": "Senador",
+  "detalle": "Senador · Formosa · Alianza Unión por la Patria",
+  "n24": 7,
+  "n25": 10,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Departamento",
+    "importe": 17542017.77,
+    "localidad": "Formosa"
+   },
+   {
+    "tipo": "Lote De Terreno",
+    "importe": 264614.26,
+    "localidad": "Formosa"
+   },
+   {
+    "tipo": "Casa",
+    "importe": 33600627.34,
+    "localidad": "Formosa"
+   }
+  ],
+  "tipos": [
+   "Departamento",
+   "Lote De Terreno",
+   "Casa"
+  ]
+ },
+ {
+  "nombre": "Quintar Manuel",
+  "cuit": "20286470298",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Jujuy · La Libertad Avanza",
+  "n24": 8,
+  "n25": 10,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Lote De Terreno",
+    "importe": 40551796.5,
+    "localidad": "San Salvador De Jujuy"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 12945649.27,
+    "localidad": "San Salvador De Jujuy"
+   },
+   {
+    "tipo": "Lote De Terreno",
+    "importe": 31872021.04,
+    "localidad": "San Salvador De Jujuy"
+   }
+  ],
+  "tipos": [
+   "Lote De Terreno",
+   "Departamento",
+   "Lote De Terreno"
+  ]
+ },
+ {
+  "nombre": "Lew Alejandro Daniel",
+  "cuit": "20238887063",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Finanzas",
+  "n24": 3,
+  "n25": 6,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Departamento Con Cochera",
+    "importe": 514552500.0,
+    "localidad": "Montevideo"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 77289299.99,
+    "localidad": "Barrio Norte"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 39480000.0,
+    "localidad": "Palermo"
+   }
+  ],
+  "tipos": [
+   "Departamento Con Cochera",
+   "Departamento",
+   "Departamento"
+  ]
+ },
+ {
+  "nombre": "De Sensi Maria Florencia",
+  "cuit": "27332948895",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Buenos Aires · PRO",
+  "n24": 2,
+  "n25": 5,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 400000.0,
+    "localidad": "Francisco Alvarez"
+   },
+   {
+    "tipo": "Mejoras Construccion",
+    "importe": 240672500.0,
+    "localidad": "Ciudad Autonoma De Buenos Aires"
+   },
+   {
+    "tipo": "Casa",
+    "importe": 9000000.0,
+    "localidad": "Carilo"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Mejoras Construccion",
+   "Casa"
+  ]
+ },
+ {
+  "nombre": "Ferlauto Martín Alejandro",
+  "cuit": "20360824765",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Seguridad Nacional",
+  "n24": 2,
+  "n25": 5,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Departamento Con Cochera",
+    "importe": 268894080.0,
+    "localidad": "Capital Federal"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 1875033.97,
+    "localidad": "San Bernardo"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 10306583.56,
+    "localidad": "Villa Adelina"
+   }
+  ],
+  "tipos": [
+   "Departamento Con Cochera",
+   "Departamento",
+   "Departamento"
+  ]
+ },
+ {
+  "nombre": "Scaglia Gisela",
+  "cuit": "27254532164",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Fe · Provincias Unidas",
+  "n24": 3,
+  "n25": 4,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 5233814.9,
+    "localidad": "Galvez"
+   },
+   {
+    "tipo": "Rurales Sin Vivienda",
+    "importe": 1996921.82,
+    "localidad": "Galvez"
+   },
+   {
+    "tipo": "Mejoras Construccion",
+    "importe": 88000000.0,
+    "localidad": "Galvez"
+   }
+  ],
+  "tipos": [
+   "Rurales Sin Vivienda",
+   "Rurales Sin Vivienda",
+   "Mejoras Construccion"
+  ]
+ },
+ {
+  "nombre": "Pelli Federico Agustin",
+  "cuit": "20318128031",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Tucumán · La Libertad Avanza",
+  "n24": 3,
+  "n25": 3,
+  "nuevas": 3,
+  "altas": [
+   {
+    "tipo": "Cochera",
+    "importe": 11000000.0,
+    "localidad": "San Miguel De Tucuman"
+   },
+   {
+    "tipo": "Casa",
+    "importe": 105000000.0,
+    "localidad": "Yerba Buena"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 75000000.0,
+    "localidad": "San Miguel De Tucuman"
+   }
+  ],
+  "tipos": [
+   "Cochera",
+   "Casa",
+   "Departamento"
+  ]
+ },
+ {
+  "nombre": "Basterra Luis Eugenio",
+  "cuit": "23124773849",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Formosa · Unión por la Patria",
+  "n24": 7,
+  "n25": 30,
+  "nuevas": 2,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 48140000.0,
+    "localidad": "Herradura"
+   },
+   {
+    "tipo": "Lote De Terreno",
+    "importe": 620000.0,
+    "localidad": "Herradura"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Lote De Terreno"
+  ]
+ },
+ {
+  "nombre": "Figueroa Casas Germana Maria",
+  "cuit": "27184959416",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Fe · PRO",
+  "n24": 15,
+  "n25": 16,
+  "nuevas": 2,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 2964879.69,
+    "localidad": "Rosario"
+   },
+   {
+    "tipo": "Departamento",
+    "importe": 9898514.06,
+    "localidad": "Rosario"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Departamento"
+  ]
+ },
+ {
+  "nombre": "Reyes Roxana Nahir Claudia",
+  "cuit": "27177344341",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Cruz · Ucr - Unión Cívica Radical",
+  "n24": 14,
+  "n25": 14,
+  "nuevas": 2,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 9209398.2,
+    "localidad": "Rio Gallegos"
+   },
+   {
+    "tipo": "Casa",
+    "importe": 18418796.41,
+    "localidad": "Rio Gallegos"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Casa"
+  ]
+ },
+ {
+  "nombre": "Zabala Chacur Maria Natalia",
+  "cuit": "27262133988",
+  "cargo": "Diputado",
+  "detalle": "Diputado · San Luis · Unión por la Patria",
+  "n24": 11,
+  "n25": 11,
+  "nuevas": 2,
+  "altas": [
+   {
+    "tipo": "Casa",
+    "importe": 264388.0,
+    "localidad": "San Luis - El Trapiche"
+   },
+   {
+    "tipo": "Casa",
+    "importe": 7392502.0,
+    "localidad": "Juana Koslay"
+   }
+  ],
+  "tipos": [
+   "Casa",
+   "Casa"
+  ]
+ }
+]

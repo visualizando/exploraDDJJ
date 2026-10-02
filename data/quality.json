@@ -1,0 +1,481 @@
+{
+ "distribucion": {
+  "A": 783,
+  "B": 106,
+  "C": 24,
+  "D": 4
+ },
+ "total": 917,
+ "peores": [
+  {
+   "nombre": "Guibert Armando Daniel",
+   "detalle": "Director/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)",
+   "score": 37,
+   "grade": "D",
+   "pen": 63,
+   "motivos": [
+    [
+     "superficie re-declarada ×3",
+     24
+    ],
+    [
+     "2 cierres en 2024",
+     12
+    ],
+    [
+     "titularidad cambiante ×3",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Vischi Eduardo Alejandro",
+   "detalle": "Senador · Corrientes · Eco + Vamos Corrientes",
+   "score": 42,
+   "grade": "D",
+   "pen": 58,
+   "motivos": [
+    [
+     "superficie re-declarada ×6",
+     24
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Espinola Carlos Mauricio",
+   "detalle": "Senador · Corrientes · Alianza Frente de Todos",
+   "score": 46,
+   "grade": "D",
+   "pen": 54,
+   "motivos": [
+    [
+     "superficie re-declarada ×29",
+     24
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Doñate Claudio Martin",
+   "detalle": "Senador · Río Negro · Frente de Todos",
+   "score": 46,
+   "grade": "D",
+   "pen": 54,
+   "motivos": [
+    [
+     "superficie re-declarada ×4",
+     24
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Reyes Roxana Nahir Claudia",
+   "detalle": "Diputado · Santa Cruz · Ucr - Unión Cívica Radical",
+   "score": 54,
+   "grade": "C",
+   "pen": 46,
+   "motivos": [
+    [
+     "superficie re-declarada ×2",
+     16
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Galli Juan Manuel",
+   "detalle": "Subsecretario/a · Subsecretaría Legal",
+   "score": 55,
+   "grade": "C",
+   "pen": 45,
+   "motivos": [
+    [
+     "superficie re-declarada ×4",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ],
+    [
+     "filas duplicadas",
+     5
+    ]
+   ]
+  },
+  {
+   "nombre": "Basterra Luis Eugenio",
+   "detalle": "Diputado · Formosa · Unión por la Patria",
+   "score": 56,
+   "grade": "C",
+   "pen": 44,
+   "motivos": [
+    [
+     "superficie re-declarada ×3",
+     24
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     5
+    ]
+   ]
+  },
+  {
+   "nombre": "Todero Pablo Alejandro",
+   "detalle": "Diputado · Neuquén · Unión por la Patria",
+   "score": 62,
+   "grade": "C",
+   "pen": 38,
+   "motivos": [
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Figueroa Casas Germana Maria",
+   "detalle": "Diputado · Santa Fe · PRO",
+   "score": 64,
+   "grade": "C",
+   "pen": 36,
+   "motivos": [
+    [
+     "superficie re-declarada ×5",
+     24
+    ],
+    [
+     "tipo re-clasificado ×3",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Cortés Fernando Julio",
+   "detalle": "Subsecretario/a · Subsecretaría de Transporte Automotor",
+   "score": 64,
+   "grade": "C",
+   "pen": 36,
+   "motivos": [
+    [
+     "superficie re-declarada ×4",
+     24
+    ],
+    [
+     "titularidad cambiante ×3",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Dellepiane María Cristina",
+   "detalle": "Subsecretario/a · Subsecretaría de Coordinación y Administración Exterior",
+   "score": 64,
+   "grade": "C",
+   "pen": 36,
+   "motivos": [
+    [
+     "superficie re-declarada ×5",
+     24
+    ],
+    [
+     "2 cierres en 2024",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Quintar Manuel",
+   "detalle": "Diputado · Jujuy · La Libertad Avanza",
+   "score": 66,
+   "grade": "C",
+   "pen": 34,
+   "motivos": [
+    [
+     "titularidad cambiante ×6",
+     12
+    ],
+    [
+     "tipo re-clasificado ×3",
+     12
+    ],
+    [
+     "filas duplicadas",
+     5
+    ]
+   ]
+  },
+  {
+   "nombre": "Atauche Ezequiel",
+   "detalle": "Senador · Jujuy · Partido Renovador Federal",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Toniolli Eduardo Leandro",
+   "detalle": "Diputado · Santa Fe · Unión por la Patria",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "superficie re-declarada ×5",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "Romero Jorge Antonio",
+   "detalle": "Diputado · Corrientes · Unión por la Patria",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "superficie re-declarada ×5",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "Acevedo Sergio Edgardo",
+   "detalle": "Diputado · Santa Cruz · Por Santa Cruz",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "superficie re-declarada ×3",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "Carrizo Ana Carla",
+   "detalle": "Diputado · Ciudad Autónoma de Buenos Aires · Democracia para Siempre",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "superficie re-declarada ×4",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "Kirchner Maximo Carlos",
+   "detalle": "Diputado · Santa Cruz · Unión por la Patria",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "superficie re-declarada ×21",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "González (Adh) Eduardo Roberto",
+   "detalle": "Presidente/a · Agencia de Publicidad del Estado Sociedad Anónima Unipersonal (APE S.A.U.)",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "superficie re-declarada ×3",
+     24
+    ],
+    [
+     "titularidad cambiante ×1",
+     6
+    ]
+   ]
+  },
+  {
+   "nombre": "Rivas Diego Carlos",
+   "detalle": "Director/a · Subsecretaría de Evaluación Presupuestaria",
+   "score": 70,
+   "grade": "C",
+   "pen": 30,
+   "motivos": [
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ],
+    [
+     "filas duplicadas",
+     10
+    ]
+   ]
+  },
+  {
+   "nombre": "Bonacci Rocio Belen",
+   "detalle": "Diputado · Santa Fe · La Libertad Avanza",
+   "score": 72,
+   "grade": "C",
+   "pen": 28,
+   "motivos": [
+    [
+     "superficie re-declarada ×3",
+     24
+    ],
+    [
+     "tipo re-clasificado ×1",
+     4
+    ]
+   ]
+  },
+  {
+   "nombre": "Zabala Chacur Maria Natalia",
+   "detalle": "Diputado · San Luis · Unión por la Patria",
+   "score": 72,
+   "grade": "C",
+   "pen": 28,
+   "motivos": [
+    [
+     "superficie re-declarada ×2",
+     16
+    ],
+    [
+     "titularidad cambiante ×2",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Marino Juan",
+   "detalle": "Diputado · Santa Fe · Unión por la Patria",
+   "score": 72,
+   "grade": "C",
+   "pen": 28,
+   "motivos": [
+    [
+     "superficie re-declarada ×2",
+     16
+    ],
+    [
+     "titularidad cambiante ×2",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Garrido Jose Luis",
+   "detalle": "Diputado · Santa Cruz · Por Santa Cruz",
+   "score": 72,
+   "grade": "C",
+   "pen": 28,
+   "motivos": [
+    [
+     "superficie re-declarada ×2",
+     16
+    ],
+    [
+     "titularidad cambiante ×2",
+     12
+    ]
+   ]
+  },
+  {
+   "nombre": "Petri Luis Alfonso",
+   "detalle": "Diputado · Mendoza · La Libertad Avanza",
+   "score": 72,
+   "grade": "C",
+   "pen": 28,
+   "motivos": [
+    [
+     "superficie re-declarada ×2",
+     16
+    ],
+    [
+     "2 cierres en 2025",
+     12
+    ]
+   ]
+  }
+ ],
+ "promedio_penalidad": 3.7
+}

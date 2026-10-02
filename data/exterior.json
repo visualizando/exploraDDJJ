@@ -1,0 +1,232 @@
+{
+ "filas_exterior_2025": 45,
+ "personas": 35,
+ "paises": [
+  {
+   "pais": "Uruguay",
+   "total": 31,
+   "segs": [
+    {
+     "grupo": "Ejecutivo / otros",
+     "n": 17
+    },
+    {
+     "grupo": "Juntos por el Cambio",
+     "n": 4
+    },
+    {
+     "grupo": "JGM",
+     "n": 3
+    },
+    {
+     "grupo": "Unión por la Patria",
+     "n": 2
+    },
+    {
+     "grupo": "PRO",
+     "n": 2
+    },
+    {
+     "grupo": "La Libertad Avanza",
+     "n": 1
+    },
+    {
+     "grupo": "Otros",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "pais": "Sin dato",
+   "total": 5,
+   "segs": [
+    {
+     "grupo": "Ejecutivo / otros",
+     "n": 3
+    },
+    {
+     "grupo": "La Libertad Avanza",
+     "n": 1
+    },
+    {
+     "grupo": "Otros",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "pais": "Estados Unidos",
+   "total": 5,
+   "segs": [
+    {
+     "grupo": "Ejecutivo / otros",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "pais": "Chile",
+   "total": 2,
+   "segs": [
+    {
+     "grupo": "Ejecutivo / otros",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "pais": "Paraguay",
+   "total": 1,
+   "segs": [
+    {
+     "grupo": "La Libertad Avanza",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "pais": "España",
+   "total": 1,
+   "segs": [
+    {
+     "grupo": "Otros",
+     "n": 1
+    }
+   ]
+  }
+ ],
+ "top": [
+  {
+   "nombre": "Romero Juan Carlos",
+   "detalle": "Senador · Salta · Juntos por el Cambio",
+   "tipo": "Casa",
+   "lugar": "Punta Del Este",
+   "pais": "Uruguay",
+   "grupo": "Juntos por el Cambio",
+   "superficie_m2": "4417.0",
+   "fecha_ingreso": "05/08/2002",
+   "importe": 1621500000.0
+  },
+  {
+   "nombre": "Pascual Gonzalo",
+   "detalle": "Director/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)",
+   "tipo": "Otros Inmuebles",
+   "lugar": "Maldonado",
+   "pais": "Uruguay",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "10.0",
+   "fecha_ingreso": "24/10/2023",
+   "importe": 1172226275.04
+  },
+  {
+   "nombre": "Lucero Luis Enrique",
+   "detalle": "Secretario/a · Secretaría de Minería",
+   "tipo": "Departamento Con Cochera",
+   "lugar": "Washington Dc",
+   "pais": "Estados Unidos",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "60.0",
+   "fecha_ingreso": "06/08/2018",
+   "importe": 876139208.4
+  },
+  {
+   "nombre": "González Casartelli Daniel Cristian",
+   "detalle": "Secretario Coordinador de Energía y Minería · Secretaría de Coordinación de Energía y Minería",
+   "tipo": "Departamento",
+   "lugar": "Punta Del Este",
+   "pais": "Uruguay",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "100.0",
+   "fecha_ingreso": "31/12/2020",
+   "importe": 771750000.0
+  },
+  {
+   "nombre": "Lew Alejandro Daniel",
+   "detalle": "Secretario/a · Secretaría de Finanzas",
+   "tipo": "Departamento Con Cochera",
+   "lugar": "Punta Del Este",
+   "pais": "Uruguay",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "174.0",
+   "fecha_ingreso": "15/12/2020",
+   "importe": 735075000.0
+  },
+  {
+   "nombre": "Lucero Luis Enrique",
+   "detalle": "Secretario/a · Secretaría de Minería",
+   "tipo": "Departamento Con Cochera",
+   "lugar": "Washington Dc",
+   "pais": "Estados Unidos",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "45.0",
+   "fecha_ingreso": "23/10/2010",
+   "importe": 576954000.0
+  },
+  {
+   "nombre": "Lucero Luis Enrique",
+   "detalle": "Secretario/a · Secretaría de Minería",
+   "tipo": "Departamento",
+   "lugar": "Washington Dc",
+   "pais": "Estados Unidos",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "40.0",
+   "fecha_ingreso": "31/05/2013",
+   "importe": 543884992.2
+  },
+  {
+   "nombre": "Lucero Luis Enrique",
+   "detalle": "Secretario/a · Secretaría de Minería",
+   "tipo": "Departamento",
+   "lugar": "Washington Dc",
+   "pais": "Estados Unidos",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "30.0",
+   "fecha_ingreso": "24/04/2017",
+   "importe": 527790000.0
+  },
+  {
+   "nombre": "Lew Alejandro Daniel",
+   "detalle": "Secretario/a · Secretaría de Finanzas",
+   "tipo": "Departamento Con Cochera",
+   "lugar": "Montevideo",
+   "pais": "Sin dato",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "85.0",
+   "fecha_ingreso": "12/09/2025",
+   "importe": 514552500.0
+  },
+  {
+   "nombre": "Cúneo Libarona Mariano",
+   "detalle": "Ministro/a · Ministerio de Justicia",
+   "tipo": "Departamento",
+   "lugar": "Miami Beach",
+   "pais": "Uruguay",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "70.0",
+   "fecha_ingreso": "22/07/2016",
+   "importe": 473354714.53
+  },
+  {
+   "nombre": "Bausili Santiago",
+   "detalle": "Presidente/a · Banco Central de la República Argentina",
+   "tipo": "Casa",
+   "lugar": "Uruguay",
+   "pais": "Uruguay",
+   "grupo": "Ejecutivo / otros",
+   "superficie_m2": "1.0",
+   "fecha_ingreso": "02/01/2019",
+   "importe": 442470000.0
+  },
+  {
+   "nombre": "Basualdo Atilio",
+   "detalle": "Diputado · Formosa · La Libertad Avanza",
+   "tipo": "Departamento Con Cochera",
+   "lugar": "Asuncion, Paraguay",
+   "pais": "Paraguay",
+   "grupo": "La Libertad Avanza",
+   "superficie_m2": "74.0",
+   "fecha_ingreso": "26/10/2024",
+   "importe": 302950890.15
+  }
+ ]
+}

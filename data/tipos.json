@@ -1,0 +1,42 @@
+[
+ {
+  "label": "DEPARTAMENTO",
+  "count": 674,
+  "share": 0.3042889390519187
+ },
+ {
+  "label": "CASA",
+  "count": 627,
+  "share": 0.2830699774266366
+ },
+ {
+  "label": "LOTE DE TERRENO",
+  "count": 372,
+  "share": 0.16794582392776525
+ },
+ {
+  "label": "DEPARTAMENTO CON COCHERA",
+  "count": 144,
+  "share": 0.06501128668171557
+ },
+ {
+  "label": "RURALES SIN VIVIENDA",
+  "count": 99,
+  "share": 0.04469525959367946
+ },
+ {
+  "label": "COCHERA",
+  "count": 87,
+  "share": 0.03927765237020316
+ },
+ {
+  "label": "OTROS INMUEBLES",
+  "count": 63,
+  "share": 0.028442437923250564
+ },
+ {
+  "label": "LOCAL",
+  "count": 62,
+  "share": 0.02799097065462754
+ }
+]

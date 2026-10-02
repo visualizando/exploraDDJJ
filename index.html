@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inmuebles declarados — Evolución 2024–2025</title>
+<meta name="description" content="Qué inmuebles declaran legisladores, políticos, jueces y autoridades ante la Oficina Anticorrupción y cómo cambiaron entre 2024 y 2025.">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<a class="skip-link" href="#contenido">Ir al contenido</a>
+<header class="masthead">
+  <a class="brand" href="#inicio"><span class="brand-mark">D</span> DDJJ · Inmuebles</a>
+  <p>Visualización a partir de declaraciones juradas públicas de la Oficina Anticorrupción.</p>
+</header>
+<main id="contenido">
+  <section class="hero" id="inicio">
+    <p class="eyebrow">Declaraciones juradas patrimoniales · 2012–2025</p>
+    <h1>Inmuebles declarados</h1>
+    <p class="lede">Qué propiedades declaran legisladores, políticos, integrantes del Poder Judicial y autoridades de JGM, y cómo evolucionó su valuación entre 2024 y 2025.</p>
+    <aside class="editorial-note" aria-labelledby="editorial-title">
+      <p>Una aclaración antes de empezar</p>
+      <h2 id="editorial-title">Son valuaciones fiscales declaradas, no precios de mercado</h2>
+      <p>Los importes son los que cada funcionario informa ante la Oficina Anticorrupción. Esta página describe patrones en esos datos: no verifica valores de mercado ni identifica domicilios particulares.</p>
+    </aside>
+    <p class="source-note"><span class="pulse" aria-hidden="true"></span><span id="source-line">Cargando datos…</span></p>
+  </section>
+
+  <section class="stats" aria-label="Resumen general" id="stats"></section>
+
+  <section class="module" aria-labelledby="top-title">
+    <div class="module-heading">
+      <p class="eyebrow">Mayor valuación declarada</p>
+      <h2 id="top-title">Los inmuebles de mayor valor al cierre de 2025</h2>
+      <p>Cada fila es un inmueble en la última declaración de cierre disponible. Son valores nominales informados, no tasaciones independientes. Cobertura: la tabla lista el top 15; las burbujas de abajo, el top 150 (desde $177 M).</p>
+    </div>
+    <div class="scatter-legend" aria-hidden="true">
+      <span><i style="background:#a78bfa;border-radius:0"></i> La Libertad Avanza</span>
+      <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+      <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+      <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+      <span><i style="background:#7c3aed;border-radius:0"></i> Poder Ejecutivo</span>
+      <span><i style="background:#9aa0a6;border-radius:0"></i> Otros</span>
+    </div>
+    <div class="pack-stage"><svg id="pack-svg" viewBox="0 0 960 620" role="img" aria-label="Burbujas de los 150 inmuebles de mayor valor declarado"></svg></div>
+    <p class="chart-note">Cobertura: 150 burbujas de 2.285 inmuebles con cierre 2025.</p>
+    <div class="table-wrap" role="region" aria-label="Inmuebles de mayor valor declarado en 2025" tabindex="0">
+      <table id="top-table">
+        <thead><tr><th>Titular</th><th>Inmueble</th><th>Localidad</th><th>Sup.</th><th>Ingreso</th><th>Valor declarado</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="caution"><strong>Lectura responsable:</strong> superficies o tipos inusuales pueden reflejar errores de carga en la DJPI original, como el campo de 8.153 ha en Alberti.</p>
+  </section>
+
+  <section class="zero-module" aria-labelledby="evo-title">
+    <div class="zero-heading">
+      <p class="eyebrow">Comparación interanual · mismo bien, cierre contra cierre</p>
+      <h2 id="evo-title">La suba se repite con el mismo porcentaje: es actualización fiscal, no mercado</h2>
+      <p>Al comparar cada inmueble del top 2025 con su cierre 2024, los aumentos se agrupan en tres valores exactos. Eso indica coeficientes de actualización uniformes aplicados a las valuaciones. Cobertura: los 10 de mayor valuación 2025.</p>
+    </div>
+    <div class="zero-leads" id="evo-leads"></div>
+    <div class="table-wrap" role="region" aria-label="Comparación 2024 contra 2025 del top de inmuebles" tabindex="0">
+      <table id="evo-table">
+        <thead><tr><th>Titular / inmueble</th><th>2024</th><th>2025</th><th>Variación</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="module" aria-labelledby="dist-title">
+    <div class="module-heading">
+      <p class="eyebrow">Composición al cierre de 2025</p>
+      <h2 id="dist-title">Cómo se distribuyen los inmuebles declarados</h2>
+      <p>Distribución de los <span id="n-cierre">…</span> inmuebles con snapshot de cierre 2025 por tipo, provincia, rango de valor y país (exterior). Cobertura total, sin recorte.</p>
+    </div>
+    <div class="columns-2">
+      <div>
+        <h3>Por tipo</h3>
+        <p class="chart-explainer">Los departamentos y casas concentran la mayoría de los registros.</p>
+        <div class="chart" id="chart-tipos"></div>
+      </div>
+      <div>
+        <h3>Por rango de valuación</h3>
+        <p class="chart-explainer">La mayoría de los inmuebles se declara por debajo de los $50 millones.</p>
+        <div class="chart" id="chart-rangos"></div>
+      </div>
+    </div>
+    <div class="columns-2" style="margin-top: var(--grid-gap)">
+      <div>
+        <h3>Por provincia (país)</h3>
+        <p class="chart-explainer">CABA y Buenos Aires concentran los inmuebles en el país.</p>
+        <div class="chart" id="chart-provincias"></div>
+      </div>
+      <div>
+        <h3>Exterior por país</h3>
+        <p class="chart-explainer">Uruguay y Estados Unidos reúnen la mayoría de los bienes fuera del país.</p>
+        <div class="chart" id="chart-paises"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="module" aria-labelledby="fam-title">
+    <div class="module-heading">
+      <p class="eyebrow">Grupo familiar declarado · legisladores, políticos y JGM</p>
+      <h2 id="fam-title">¿Con quién declaran?</h2>
+      <p>Cónyuges, convivientes e hijos informados en la sección 4 de la DJPI. Cobertura: legisladores (historial completo), políticos y JGM (ventana 2024–2025). El Poder Judicial casi no tiene DDJJ localizables por CUIT en la OA.</p>
+    </div>
+    <div class="table-wrap" role="region" aria-label="Grupo familiar por poder" tabindex="0">
+      <table id="fam-table">
+        <thead><tr><th>Grupo</th><th>Personas</th><th>Con DDJJ</th><th>Cónyuge</th><th>Hijos</th><th>Nada</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="stats" id="fam-stats" style="margin-block:var(--grid-gap)"></div>
+    <h3>Cantidad de hijos declarados (legisladores)</h3>
+    <p class="chart-explainer">Cada barra agrupa a los legisladores según cuántos hijos informan, dividido por fuerza.</p>
+    <div class="scatter-legend" aria-hidden="true">
+      <span><i style="background:#a78bfa;border-radius:0"></i> La Libertad Avanza</span>
+      <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+      <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+      <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+      <span><i style="background:#9aa0a6;border-radius:0"></i> Otros</span>
+    </div>
+    <div class="chart" id="chart-hijos"></div>
+    <h3>Por fuerza: ¿qué porcentaje declara hijos? (legisladores)</h3>
+    <p class="chart-explainer">Barras al 100% por fuerza: quiénes informan al menos un hijo y quiénes no.</p>
+    <div class="chart" id="chart-hijos-partido"></div>
+    <h3>¿Y algún familiar en general? (legisladores)</h3>
+    <p class="chart-explainer">Lo mismo pero con cualquier familiar (cónyuge, conviviente o hijos).</p>
+    <div class="chart" id="chart-fam-partido"></div>
+  </section>
+
+  <section class="module" aria-labelledby="packp-title">
+    <div class="module-heading">
+      <p class="eyebrow">Top 40 · área proporcional a la valuación total</p>
+      <h2 id="packp-title">Burbujas por persona</h2>
+      <p>Cada burbuja es una persona y su tamaño es la suma de sus inmuebles con cierre 2025. Adentro: nombre, cargo y cantidad de inmuebles.</p>
+    </div>
+    <div class="scatter-legend" aria-hidden="true">
+      <span><i style="background:#a78bfa;border-radius:0"></i> La Libertad Avanza</span>
+      <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+      <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+      <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+      <span><i style="background:#7c3aed;border-radius:0"></i> Poder Ejecutivo</span>
+      <span><i style="background:#9aa0a6;border-radius:0"></i> Otros</span>
+    </div>
+    <div class="pack-stage"><svg id="pack-personas-svg" viewBox="0 0 960 620" role="img" aria-label="Burbujas de las 40 personas con mayor valuación total"></svg></div>
+    <p class="chart-note">Cobertura: 40 burbujas de 763 personas con inmuebles en cierre 2025.</p>
+  </section>
+
+  <section class="module" aria-labelledby="personas-title">
+    <div class="module-heading">
+      <p class="eyebrow">Acumulado por titular</p>
+      <h2 id="personas-title">Quiénes acumulan mayor valuación total en 2025</h2>
+      <p>Suma de todos los inmuebles con cierre 2025 por persona, a su porcentaje de titularidad declarado. Cobertura: top 10 personas.</p>
+    </div>
+    <div class="scatter-legend" aria-hidden="true">
+      <span><i style="background:#a78bfa;border-radius:0"></i> La Libertad Avanza</span>
+      <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+      <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+      <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+      <span><i style="background:#7c3aed;border-radius:0"></i> Poder Ejecutivo</span>
+      <span><i style="background:#9aa0a6;border-radius:0"></i> Otros / judicial</span>
+    </div>
+    <div class="chart" id="chart-personas"></div>
+  </section>
+
+  <section class="module" aria-labelledby="sc-title">
+    <div class="module-heading">
+      <p class="eyebrow">Outliers · escala logarítmica en ambos ejes</p>
+      <h2 id="sc-title">2024 contra 2025: quiénes se alejaron del montón</h2>
+      <p>Cada punto es un funcionario con cierre en ambos años (total de sus inmuebles). La línea roja es la actualización fiscal uniforme (+31,55%); la gris, la identidad. Los puntos fuera de la roja son los que se movieron distinto al resto. Cobertura: 630 con ambos cierres (se muestran 525; se ocultan sin cambio y valores ~$0).</p>
+    </div>
+    <section class="scatter-section" aria-labelledby="sc-personas-title">
+      <h3 id="sc-personas-title">Total de inmuebles por funcionario</h3>
+      <p class="chart-explainer">Color por fuerza. Se ocultan los totales sin cambio y los de valor cercano a $0.</p>
+      <div class="scatter-wrap">
+        <div class="scatter-legend" aria-hidden="true">
+          <span><i style="background:#a78bfa;border-radius:0"></i> LLA</span>
+          <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+          <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+          <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+          <span><i style="background:#7c3aed;border-radius:0"></i> Ejecutivo</span>
+          <span><i style="background:#9aa0a6;border-radius:0"></i> Otros</span>
+        </div>
+        <div class="scatter-stage"><svg id="scatter-personas-svg" viewBox="0 0 960 560" role="img" aria-label="Dispersión del total de inmuebles por funcionario, 2024 contra 2025"></svg>
+          <div class="scatter-readout" id="readout-personas" role="status" aria-live="polite"><strong>Identificá un punto</strong><span>Pasá el cursor sobre un círculo para ver el detalle.</span></div>
+        </div>
+      </div>
+    </section>
+    <div class="table-wrap" role="region" aria-label="Funcionarios más alejados de la línea" tabindex="0">
+      <table id="out-personas-table">
+        <thead><tr><th>Funcionario</th><th>Inm. 24→25</th><th>Total 2024</th><th>Total 2025</th><th>Ratio</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="chart-note">Saltos abruptos pueden reflejar compras, ventas, subdivisiones o cambios de titularidad y superficie declarada —no necesariamente una revaluación—. La tabla lista los 8 más alejados con base mayor a $5 M.</p>
+  </section>
+
+  <section class="module" aria-labelledby="scb-title">
+    <div class="module-heading">
+      <p class="eyebrow">Bien por bien · 1.134 pares matcheados</p>
+      <h2 id="scb-title">El mismo inmueble en 2024 y en 2025</h2>
+      <p>Cada punto es un inmueble matcheado entre cierres (titular + tipo + localidad + superficie + fecha de ingreso). 682 caen sobre la línea +31,55% y 366 no cambian; el resto se dispersa. Cobertura: 1.650 pares (se muestran 1.254).</p>
+    </div>
+    <section class="scatter-section" aria-labelledby="sc-bienes-title">
+      <h3 id="sc-bienes-title">Valor del mismo bien, 2024 contra 2025</h3>
+      <p class="chart-explainer">Color por fuerza. Se ocultan los bienes sin cambio y los de valor cercano a $0 (probable error de carga).</p>
+      <div class="scatter-wrap">
+        <div class="scatter-legend" aria-hidden="true">
+          <span><i style="background:#a78bfa;border-radius:0"></i> LLA</span>
+          <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+          <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+          <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+          <span><i style="background:#7c3aed;border-radius:0"></i> Ejecutivo</span>
+          <span><i style="background:#9aa0a6;border-radius:0"></i> Otros</span>
+        </div>
+        <div class="scatter-stage"><svg id="scatter-bienes-svg" viewBox="0 0 960 560" role="img" aria-label="Dispersión bien por bien, 2024 contra 2025"></svg>
+          <div class="scatter-readout" id="readout-bienes" role="status" aria-live="polite"><strong>Identificá un punto</strong><span>Pasá el cursor sobre un círculo para ver el detalle.</span></div>
+        </div>
+      </div>
+    </section>
+    <div class="table-wrap" role="region" aria-label="Inmuebles más alejados de la línea" tabindex="0">
+      <table id="out-bienes-table">
+        <thead><tr><th>Titular / inmueble</th><th>2024</th><th>2025</th><th>Ratio</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="module" aria-labelledby="rank-title">
+    <div class="module-heading">
+      <p class="eyebrow">Altas 2024 → 2025 · solo con DDJJ en ambos años</p>
+      <h2 id="rank-title">Quiénes sumaron más propiedades</h2>
+      <p>Cada fila es una persona; la barra apilada suma la valuación 2025 de sus altas, con un tramo por bien (ancho proporcional al valor), icono y color por categoría. Se usa una sola declaración por año (la rectificativa más nueva) y se considera el mismo bien aunque cambie tipo, superficie o localidad si coinciden fecha de ingreso e importe. Cobertura: top 15 por altas, de 128 personas que sumaron con DDJJ en ambos años.</p>
+    </div>
+    <div class="rank-sort" role="group" aria-label="Ordenar ranking">
+      <button type="button" data-sort="monto" aria-pressed="true">Por monto sumado</button>
+      <button type="button" data-sort="cantidad" aria-pressed="false">Por cantidad</button>
+    </div>
+    <div class="rank-legend" id="rank-legend" aria-hidden="true"></div>
+    <div class="rank-list" id="rank-nuevas"></div>
+    <p class="chart-note">El largo de cada barra es proporcional al monto total sumado (la más larga = mayor monto).</p>
+    <p class="caution"><strong>Lectura responsable:</strong> un “alta” es un bien sin match en 2024: puede ser compra, herencia, donación o subdivisión. El dataset solo incluye inmuebles (no autos ni otros bienes).</p>
+  </section>
+
+  <section class="module" aria-labelledby="hip-title">
+    <div class="module-heading">
+      <p class="eyebrow">Cruce DJPI × BCRA · 124 personas con DDJJ parseada</p>
+      <h2 id="hip-title">¿La hipoteca del BCRA aparece declarada?</h2>
+      <p>Para cada titular con hipoteca en la Central de Deudores (garantía preferida B) buscamos deudas con bancos en su DJPI. La DJPI no rotula “hipotecario”: figura como deuda con el banco acreedor.</p>
+    </div>
+    <div class="zero-leads" id="hip-quads"></div>
+    <div class="table-wrap" role="region" aria-label="Cruce hipotecario por persona" tabindex="0">
+      <table id="hip-table">
+        <thead><tr><th>Persona</th><th>Inm. 2025</th><th>Hipoteca BCRA</th><th>Deuda bancaria DJPI</th><th>Estado</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="caution"><strong>Lectura responsable:</strong> una deuda bancaria chica (p. ej. tarjeta) no es una hipoteca; y una hipoteca BCRA sin correlato en DJPI puede ser crédito cancelado, otorgado a un familiar o con otro titular. Cobertura DJPI: 124 de 186 titulares con hipoteca BCRA (el resto sin PDF disponible).</p>
+    <h3>Por partido: ¿declaran la deuda?</h3>
+    <p class="chart-explainer">Solo legisladores (únicos con partido informado). Entre quienes tienen hipoteca en BCRA: cuántos la acompañan con deuda bancaria en DJPI, cuántos no, y cuántos no tienen PDF parseado. “Alianza La Libertad Avanza” se agrupa con La Libertad Avanza. Cobertura: 46 legisladores con hipoteca en 14 fuerzas.</p>
+    <div class="scatter-legend" aria-hidden="true">
+      <span><i style="background:#252725;border-radius:0"></i> declaran</span>
+      <span><i style="background:#e4002b;border-radius:0"></i> no declaran</span>
+      <span><i style="background:#c9cdd0;border-radius:0"></i> sin PDF</span>
+    </div>
+    <div class="table-wrap" role="region" aria-label="Hipotecas por partido" tabindex="0">
+      <table id="party-table">
+        <thead><tr><th>Partido</th><th>Legisladores</th><th>Con hipoteca</th><th>Proporción</th><th>Declaran</th><th>No declaran</th><th>Sin PDF</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="module" aria-labelledby="tot-title">
+    <div class="module-heading">
+      <p class="eyebrow">Patrimonio neto declarado · bienes menos deudas, fin de año</p>
+      <h2 id="tot-title">Totales 2024 contra 2025</h2>
+      <p>De la sección “Evolución Patrimonial” de cada DJPI: bienes, depósitos y dinero menos deudas al cierre. Incluye todo el patrimonio, no solo inmuebles. Cobertura: 63 personas con evolución parseada en ambos años.</p>
+    </div>
+    <section class="scatter-section" aria-labelledby="sc-tot-title">
+      <h3 id="sc-tot-title">Patrimonio neto de cierre, 2024 contra 2025</h3>
+      <p class="chart-explainer">Color por fuerza. Se ocultan los patrimonios sin cambio y los de valor cercano a $0.</p>
+      <div class="scatter-wrap">
+        <div class="scatter-legend" aria-hidden="true">
+          <span><i style="background:#a78bfa;border-radius:0"></i> LLA</span>
+          <span><i style="background:#f59e0b;border-radius:0"></i> PRO</span>
+          <span><i style="background:#38bdf8;border-radius:0"></i> Peronismo</span>
+          <span><i style="background:#e4002b;border-radius:0"></i> UCR</span>
+          <span><i style="background:#7c3aed;border-radius:0"></i> Ejecutivo</span>
+          <span><i style="background:#9aa0a6;border-radius:0"></i> Otros</span>
+        </div>
+        <div class="scatter-stage"><svg id="scatter-totales-svg" viewBox="0 0 960 560" role="img" aria-label="Dispersión del patrimonio neto, 2024 contra 2025"></svg>
+          <div class="scatter-readout" id="readout-totales" role="status" aria-live="polite"><strong>Identificá un punto</strong><span>Pasá el cursor sobre un círculo para ver el detalle.</span></div>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section class="module" aria-labelledby="ext-title">
+    <div class="module-heading">
+      <p class="eyebrow">Última foto por persona · 35 personas, 45 inmuebles</p>
+      <h2 id="ext-title">Inmuebles en el exterior</h2>
+      <p>Uruguay concentra 31 de los 45. Cada barra apila los inmuebles del país por fuerza o poder (ancho proporcional a la cantidad).</p>
+    </div>
+    <div class="rank-legend" id="ext-legend" aria-hidden="true"></div>
+    <div class="rank-list" id="ext-paises"></div>
+    <div class="table-wrap" role="region" aria-label="Inmuebles en el exterior de mayor valor" tabindex="0">
+      <table id="ext-table">
+        <thead><tr><th>Titular</th><th>Inmueble</th><th>País</th><th>Valor declarado</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="caution"><strong>Lectura responsable:</strong> el país se infiere de localidad/provincia cuando la DDJJ no lo informa; 5 inmuebles quedan sin dato.</p>
+  </section>
+
+  <section class="zero-module" aria-labelledby="q-title">
+    <div class="zero-heading">
+      <p class="eyebrow">Calidad de las DDJJ · ventana 2024–2025</p>
+      <h2 id="q-title">234 de 917 declaraciones tienen algo para revisar</h2>
+      <p>Detectamos señales automáticas de inconsistencia: superficies re-escritas, titularidad o tipo cambiados, cierres duplicados, filas repetidas, campos vacíos y bienes que desaparecen y reaparecen. Cada caso hay que verificarlo en el PDF original.</p>
+    </div>
+    <div class="table-wrap" role="region" aria-label="Declaraciones con señales para revisar" tabindex="0">
+      <table id="q-table">
+        <thead><tr><th>Persona</th><th>Señales detectadas</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="zero-heading" style="margin-block:2rem 1.25rem">
+      <p class="eyebrow">El ranking del problema</p>
+      <h2 style="font-size:clamp(1.65rem,3vw,2.25rem)">Los errores más frecuentes</h2>
+    </div>
+    <p class="chart-explainer">Personas afectadas sobre 917 con cierre 2024 o 2025. Cobertura: conteo automático con las reglas del índice.</p>
+    <div class="chart" aria-label="Errores más frecuentes en las declaraciones">
+      <div class="bar-row"><span class="bar-label">Superficie re-declarada</span><div class="bar-track" aria-hidden="true"><span class="bar-fill" style="inline-size:100%"></span></div><span class="bar-value"><strong>134</strong><small>14,6%</small></span></div>
+      <div class="bar-row"><span class="bar-label">Múltiples cierres mismo año</span><div class="bar-track" aria-hidden="true"><span class="bar-fill" style="inline-size:42.5%"></span></div><span class="bar-value"><strong>57</strong><small>6,2%</small></span></div>
+      <div class="bar-row"><span class="bar-label">Tipo re-clasificado</span><div class="bar-track" aria-hidden="true"><span class="bar-fill" style="inline-size:26%"></span></div><span class="bar-value"><strong>35</strong><small>3,8%</small></span></div>
+      <div class="bar-row"><span class="bar-label">Filas duplicadas</span><div class="bar-track" aria-hidden="true"><span class="bar-fill" style="inline-size:23.1%"></span></div><span class="bar-value"><strong>31</strong><small>3,4%</small></span></div>
+      <div class="bar-row"><span class="bar-label">Titularidad cambiante</span><div class="bar-track" aria-hidden="true"><span class="bar-fill" style="inline-size:20.1%"></span></div><span class="bar-value"><strong>27</strong><small>2,9%</small></span></div>
+    </div>
+    <p class="chart-note">A nivel de fila (31.782 registros): 11.337 sin provincia ni país (36%), 571 sin fecha de ingreso, 620 con importe $0 y 130 bienes en el exterior sin país. El problema raíz es de diseño: sin identificador estable por bien, todo cruce es por indicios.</p>
+    <section class="stats" aria-label="Problemas a nivel de fila" style="margin-block-start:var(--grid-gap)">
+      <article class="stat-card"><h3>Sin provincia ni país</h3><strong>11.337</strong><span>36% de las filas.</span></article>
+      <article class="stat-card"><h3>Sin fecha de ingreso</h3><strong>571</strong><span>Filas sin ancla temporal.</span></article>
+      <article class="stat-card"><h3>Importe $0</h3><strong>620</strong><span>Bienes valuados en cero.</span></article>
+      <article class="stat-card"><h3>Exterior sin país</h3><strong>130</strong><span>Imposibles de ubicar.</span></article>
+    </section>
+  </section>
+
+  <section class="module" aria-labelledby="err-title">
+    <div class="module-heading">
+      <p class="eyebrow">Anatomía del error · 981 personas con inmuebles</p>
+      <h2 id="err-title">Lo más insólito de las declaraciones</h2>
+      <p>Rectificativas, presentaciones duplicadas, bienes valuados en cero y superficies que se multiplican por mil de un año al otro. Cobertura: todo el historial 2012–2025 para rectificativas; ventana 2024–2025 para superficies.</p>
+    </div>
+    <div class="zero-leads" id="err-leads"></div>
+    <h3>Saltos de superficie más extremos, mismo bien 2024 → 2025</h3>
+    <p class="chart-explainer">Factor de cambio en escala logarítmica. Una casa que pasa de 277 a 3.000.000 m² es indistinguible de un error de unidades.</p>
+    <div class="chart" id="chart-swings"></div>
+    <div class="table-wrap" role="region" aria-label="Mayores saltos de superficie" tabindex="0">
+      <table id="err-table">
+        <thead><tr><th>Titular / inmueble</th><th>2024</th><th>2025</th><th>Factor</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="module" aria-labelledby="henke-title">
+    <div class="module-heading">
+      <p class="eyebrow">Caso destacado</p>
+      <h2 id="henke-title">Los dos inmuebles de Henke cambiaron de superficie y tipo entre años</h2>
+      <p>En 2024 figuran como lotes de 72.140 y 68.093 m² en Mar de Ajó; en 2025, como rurales sin vivienda de 250 m² en Partido de la Costa. Fechas de ingreso, titularidad y encadenamiento de valores confirman que son los mismos bienes: hubo una corrección de metadatos.</p>
+    </div>
+    <p class="caution"><strong>Búsqueda en portales:</strong> se revisaron Zonaprop, MercadoLibre e InfoCasas para el top 10. Ninguna publicación alcanzó el umbral de identificación “casi segura”: sin dirección o nomenclatura catastral, localidad + tipo + superficie no bastan.</p>
+  </section>
+
+  <div class="method-shell">
+    <details class="method" open>
+      <summary>Metodología y fuentes</summary>
+      <div>
+        <p><strong>Fuente:</strong> consulta pública de DJPI de la Oficina Anticorrupción (<code>consultaddjj</code>), para 1.620 personas de los datasets de legisladores, políticos, judicial y JGM. Años 2012–2025.</p>
+        <p><strong>Extracción:</strong> descarga de 7.937 PDF y parseo de la sección de bienes (inicio y cierre), con tipo, destino, localidad, provincia/estado, país, fecha de ingreso, superficie, titularidad y valuación. Total: 31.782 filas. <strong>Deduplicación:</strong> una declaración por persona, año y momento (la de mayor ID: la rectificativa más nueva pisa a la original); 474 grupos tenían presentaciones múltiples.</p>
+        <p><strong>Comparación:</strong> valor de cierre 2024 contra cierre 2025 del mismo bien. Se considera el mismo bien si coinciden CUIT, ámbito y fecha de ingreso, más tipo, superficie o importe: si cambia la descripción pero no esos anclajes, es re-descripción, no alta ni baja.</p>
+        <p><strong>Calidad:</strong> señales automáticas por persona (superficie re-declarada, titularidad o tipo cambiados, cierres múltiples, filas duplicadas, campos vacíos, bienes que reaparecen). 234 de 917 personas tienen al menos una; cada caso debe verificarse en el PDF.</p>
+        <p><strong>Outliers:</strong> 1.650 inmuebles matcheados bien por bien (1.254 visibles) y 630 funcionarios con cierre en ambos años (525 visibles), en escala logarítmica. La línea roja es la actualización uniforme (+31,55%); lo que se aparta de ella merece mirar el caso.</p>
+        <p><strong>Límites:</strong> sin domicilio ni nomenclatura no se puede vincular un aviso de venta con un bien declarado; los precios publicados son de oferta, no de cierre; el scraper de MercadoLibre requiere proxy no disponible, por lo que esa fuente se revisó manualmente.</p>
+      </div>
+    </details>
+  </div>
+</main>
+<footer>
+  <p>Datos: Oficina Anticorrupción (DJPI públicas) · Extracción: septiembre de 2026 · Visualización estática sin trackers.</p>
+</footer>
+<script src="./data-inline.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

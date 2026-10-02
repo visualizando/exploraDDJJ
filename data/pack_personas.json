@@ -1,0 +1,322 @@
+[
+ {
+  "nombre": "Cúneo Libarona Mariano",
+  "cargo": "Ministro/a",
+  "detalle": "Ministro/a · Ministerio de Justicia",
+  "bloque": "PEN",
+  "total": 4970888653.81,
+  "inmuebles": 30
+ },
+ {
+  "nombre": "Kirchner Maximo Carlos",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Cruz · Unión por la Patria",
+  "bloque": "PJ",
+  "total": 3368081226.8100004,
+  "inmuebles": 27
+ },
+ {
+  "nombre": "Henke Alejandro Guillermo",
+  "cargo": "Vicepresidente/a",
+  "detalle": "Vicepresidente/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)",
+  "bloque": "PEN",
+  "total": 2816638312.6099997,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Lucero Luis Enrique",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Minería",
+  "bloque": "PEN",
+  "total": 2798985143.63,
+  "inmuebles": 7
+ },
+ {
+  "nombre": "Caputo Luis Andrés",
+  "cargo": "Ministro/a",
+  "detalle": "Ministro/a · Ministerio de Economía",
+  "bloque": "PEN",
+  "total": 2695881252.43,
+  "inmuebles": 9
+ },
+ {
+  "nombre": "Romero Juan Carlos",
+  "cargo": "Senador",
+  "detalle": "Senador · Salta · Juntos por el Cambio",
+  "bloque": "Otros",
+  "total": 2222571054.25,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Lew Alejandro Daniel",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Finanzas",
+  "bloque": "PEN",
+  "total": 1526356799.99,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Pascual Gonzalo",
+  "cargo": "Director/a",
+  "detalle": "Director/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)",
+  "bloque": "PEN",
+  "total": 1406092955.49,
+  "inmuebles": 4
+ },
+ {
+  "nombre": "Figueroa Casas Germana Maria",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Fe · PRO",
+  "bloque": "PRO",
+  "total": 1092350231.53,
+  "inmuebles": 16
+ },
+ {
+  "nombre": "Bausili Santiago",
+  "cargo": "Presidente/a",
+  "detalle": "Presidente/a · Banco Central de la República Argentina",
+  "bloque": "PEN",
+  "total": 997701212.57,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Cortés Fernando Julio",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Transporte Automotor",
+  "bloque": "PEN",
+  "total": 975307535.6899999,
+  "inmuebles": 16
+ },
+ {
+  "nombre": "Garcia Silvina Marcela",
+  "cargo": "Senador",
+  "detalle": "Senador · Río Negro · Frente de Todos",
+  "bloque": "PJ",
+  "total": 970616909.0,
+  "inmuebles": 4
+ },
+ {
+  "nombre": "Huici Héctor María",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Simplificación y Desregulación",
+  "bloque": "PEN",
+  "total": 908937562.0,
+  "inmuebles": 9
+ },
+ {
+  "nombre": "De Pedro Eduardo Enrique",
+  "cargo": "Senador",
+  "detalle": "Senador · Buenos Aires · Alianza Unión por la Patria",
+  "bloque": "PJ",
+  "total": 830802821.88,
+  "inmuebles": 5
+ },
+ {
+  "nombre": "Tortoriello Anibal Antonio",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Río Negro · La Libertad Avanza",
+  "bloque": "LLA",
+  "total": 793790478.1400002,
+  "inmuebles": 16
+ },
+ {
+  "nombre": "Santilli Diego Cesar",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Buenos Aires · PRO",
+  "bloque": "PRO",
+  "total": 788426392.65,
+  "inmuebles": 1
+ },
+ {
+  "nombre": "Vázquez Andrés Edgardo",
+  "cargo": "Director/a",
+  "detalle": "Director/a · Agencia de Recaudación y Control Aduanero",
+  "bloque": "PEN",
+  "total": 756742967.49,
+  "inmuebles": 8
+ },
+ {
+  "nombre": "Menem Martin Alexis",
+  "cargo": "Diputado",
+  "detalle": "Diputado · La Rioja · La Libertad Avanza",
+  "bloque": "LLA",
+  "total": 733981253.9,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Medina Carlos Eduardo",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Asuntos Registrales",
+  "bloque": "PEN",
+  "total": 711034834.91,
+  "inmuebles": 11
+ },
+ {
+  "nombre": "Suarez Rodolfo Alejandro",
+  "cargo": "Senador",
+  "detalle": "Senador · Mendoza · Frente Cambia Mendoza",
+  "bloque": "Otros",
+  "total": 687604512.18,
+  "inmuebles": 8
+ },
+ {
+  "nombre": "Sanfilippo Damián Eduardo",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Energía Eléctrica",
+  "bloque": "PEN",
+  "total": 674621987.5999999,
+  "inmuebles": 13
+ },
+ {
+  "nombre": "Piparo Carolina Rosana",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Buenos Aires · La Libertad Avanza",
+  "bloque": "LLA",
+  "total": 673742631.7099999,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Galli Ezequiel",
+  "cargo": "Titular",
+  "detalle": "Titular · Unidad Gabinete de Asesores",
+  "bloque": "PEN",
+  "total": 660862671.25,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Melik Alejandro Erasmo Guillermo",
+  "cargo": "Titular",
+  "detalle": "Titular · Oficina Anticorrupción",
+  "bloque": "PEN",
+  "total": 650253640.06,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Bakker Germán Bernardo",
+  "cargo": "Director/a",
+  "detalle": "Director/a · Subsecretaría de Turismo",
+  "bloque": "PEN",
+  "total": 644000000.0,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Núñez Alejandro Martín",
+  "cargo": "Presidente/a",
+  "detalle": "Presidente/a · Belgrano Cargas y Logística S.A.",
+  "bloque": "PEN",
+  "total": 616195935.16,
+  "inmuebles": 2
+ },
+ {
+  "nombre": "Gonzalez Alvaro Gustavo",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Ciudad Autónoma de Buenos Aires · PRO",
+  "bloque": "PRO",
+  "total": 609510387.17,
+  "inmuebles": 4
+ },
+ {
+  "nombre": "Iraeta Sergio",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Agricultura, Ganadería y Pesca",
+  "bloque": "PEN",
+  "total": 580909647.91,
+  "inmuebles": 5
+ },
+ {
+  "nombre": "Adorni Manuel",
+  "cargo": "Jefe de Gabinete",
+  "detalle": "Jefe de Gabinete · Jefatura de Gabinete de Ministros",
+  "bloque": "PEN",
+  "total": 570724006.89,
+  "inmuebles": 4
+ },
+ {
+  "nombre": "Roberto Santiago Luis",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Ciudad Autónoma de Buenos Aires · Unión por la Patria",
+  "bloque": "PJ",
+  "total": 562109881.9100001,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Lousteau Martin",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Ciudad Autónoma de Buenos Aires · Provincias Unidas",
+  "bloque": "Otros",
+  "total": 545959002.99,
+  "inmuebles": 5
+ },
+ {
+  "nombre": "Mauad (Adh) Antonio José",
+  "cargo": "Director/a",
+  "detalle": "Director/a · Servicio Meteorológico Nacional",
+  "bloque": "PEN",
+  "total": 545648017.9300001,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Jutard Juan Pablo",
+  "cargo": "Director/a Suplente",
+  "detalle": "Director/a Suplente · Belgrano Cargas y Logística S.A.",
+  "bloque": "PEN",
+  "total": 518457598.0,
+  "inmuebles": 1
+ },
+ {
+  "nombre": "Fernández Suárez Leandro Federico",
+  "cargo": "Subsecretario/a",
+  "detalle": "Subsecretario/a · Subsecretaría de Promoción de las Exportaciones, las Inversiones, la Educación, la Ciencia y la Cultura",
+  "bloque": "PEN",
+  "total": 508403428.96,
+  "inmuebles": 1
+ },
+ {
+  "nombre": "Canedi Luis Federico",
+  "cargo": "Presidente/a",
+  "detalle": "Presidente/a · Ferrocarriles Argentinos S.A.",
+  "bloque": "PEN",
+  "total": 506000000.0,
+  "inmuebles": 2
+ },
+ {
+  "nombre": "Ianni Ana Maria",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Cruz · Unión por la Patria",
+  "bloque": "PJ",
+  "total": 495679043.82,
+  "inmuebles": 7
+ },
+ {
+  "nombre": "Bornoroni Gabriel Marcos",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Córdoba · La Libertad Avanza",
+  "bloque": "LLA",
+  "total": 489392705.54999995,
+  "inmuebles": 9
+ },
+ {
+  "nombre": "Lombardo Norberto Fabián",
+  "cargo": "Presidente/a",
+  "detalle": "Presidente/a · Aerolíneas Argentinas S.A.",
+  "bloque": "PEN",
+  "total": 482842964.03,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Giuliano Diego Alberto",
+  "cargo": "",
+  "detalle": "",
+  "bloque": "Otros",
+  "total": 472853489.84999996,
+  "inmuebles": 14
+ },
+ {
+  "nombre": "Carrizo Ana Carla",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Ciudad Autónoma de Buenos Aires · Democracia para Siempre",
+  "bloque": "Otros",
+  "total": 468303565.74,
+  "inmuebles": 10
+ }
+]

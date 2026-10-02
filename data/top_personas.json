@@ -1,0 +1,82 @@
+[
+ {
+  "nombre": "Cúneo Libarona Mariano",
+  "cargo": "Ministro/a",
+  "detalle": "Ministro/a · Ministerio de Justicia",
+  "bloque": "PEN",
+  "total": 4970888653.81,
+  "inmuebles": 30
+ },
+ {
+  "nombre": "Kirchner Maximo Carlos",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Cruz · Unión por la Patria",
+  "bloque": "PJ",
+  "total": 3368081226.8100004,
+  "inmuebles": 27
+ },
+ {
+  "nombre": "Henke Alejandro Guillermo",
+  "cargo": "Vicepresidente/a",
+  "detalle": "Vicepresidente/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)",
+  "bloque": "PEN",
+  "total": 2816638312.6099997,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Lucero Luis Enrique",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Minería",
+  "bloque": "PEN",
+  "total": 2798985143.63,
+  "inmuebles": 7
+ },
+ {
+  "nombre": "Caputo Luis Andrés",
+  "cargo": "Ministro/a",
+  "detalle": "Ministro/a · Ministerio de Economía",
+  "bloque": "PEN",
+  "total": 2695881252.43,
+  "inmuebles": 9
+ },
+ {
+  "nombre": "Romero Juan Carlos",
+  "cargo": "Senador",
+  "detalle": "Senador · Salta · Juntos por el Cambio",
+  "bloque": "Otros",
+  "total": 2222571054.25,
+  "inmuebles": 3
+ },
+ {
+  "nombre": "Lew Alejandro Daniel",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Finanzas",
+  "bloque": "PEN",
+  "total": 1526356799.99,
+  "inmuebles": 6
+ },
+ {
+  "nombre": "Pascual Gonzalo",
+  "cargo": "Director/a",
+  "detalle": "Director/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)",
+  "bloque": "PEN",
+  "total": 1406092955.49,
+  "inmuebles": 4
+ },
+ {
+  "nombre": "Figueroa Casas Germana Maria",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Fe · PRO",
+  "bloque": "PRO",
+  "total": 1092350231.53,
+  "inmuebles": 16
+ },
+ {
+  "nombre": "Bausili Santiago",
+  "cargo": "Presidente/a",
+  "detalle": "Presidente/a · Banco Central de la República Argentina",
+  "bloque": "PEN",
+  "total": 997701212.57,
+  "inmuebles": 6
+ }
+]

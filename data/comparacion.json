@@ -1,0 +1,92 @@
+[
+ {
+  "titular": "ALEJANDRO GUILLERMO HENKE",
+  "inmueble": "Inmueble adquirido 01/07/2015, Mar de Ajó",
+  "valor_cierre_2024_ars": "1400045477.76",
+  "valor_cierre_2025_ars": "1841759826.00",
+  "variacion_pct": "31.5488",
+  "cargo": "Vicepresidente/a",
+  "detalle": "Vicepresidente/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)"
+ },
+ {
+  "titular": "JUAN CARLOS ROMERO",
+  "inmueble": "Casa 4417 m², Punta del Este",
+  "valor_cierre_2024_ars": "1164375000.00",
+  "valor_cierre_2025_ars": "1621500000.00",
+  "variacion_pct": "39.2593",
+  "cargo": "Senador",
+  "detalle": "Senador · La Rioja · Alianza la Libertad Avanza"
+ },
+ {
+  "titular": "LUIS ANDRÉS CAPUTO",
+  "inmueble": "Rural 81530000 m², Alberti",
+  "valor_cierre_2024_ars": "980752331.78",
+  "valor_cierre_2025_ars": "1290167536.10",
+  "variacion_pct": "31.5488",
+  "cargo": "Ministro/a",
+  "detalle": "Ministro/a · Ministerio de Economía"
+ },
+ {
+  "titular": "MARIANO CÚNEO LIBARONA",
+  "inmueble": "Inmueble 450 m², CABA",
+  "valor_cierre_2024_ars": "948642686.42",
+  "valor_cierre_2025_ars": "1247927697.48",
+  "variacion_pct": "31.5488",
+  "cargo": "Ministro/a",
+  "detalle": "Ministro/a · Ministerio de Justicia"
+ },
+ {
+  "titular": "GONZALO PASCUAL",
+  "inmueble": "Otro inmueble 10 m², La Barra",
+  "valor_cierre_2024_ars": "834177618.96",
+  "valor_cierre_2025_ars": "1172226275.04",
+  "variacion_pct": "40.5248",
+  "cargo": "Director/a",
+  "detalle": "Director/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)"
+ },
+ {
+  "titular": "GERMANA MARIA FIGUEROA CASAS",
+  "inmueble": "Rural 2369470 m², Los Molles",
+  "valor_cierre_2024_ars": "890992528.77",
+  "valor_cierre_2025_ars": "890992528.77",
+  "variacion_pct": "0.0000",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Fe · PRO"
+ },
+ {
+  "titular": "LUIS ENRIQUE LUCERO",
+  "inmueble": "Inmueble 60 m², Washington DC",
+  "valor_cierre_2024_ars": "623476656.60",
+  "valor_cierre_2025_ars": "876139208.40",
+  "variacion_pct": "40.5248",
+  "cargo": "Secretario/a",
+  "detalle": "Secretario/a · Secretaría de Obras Públicas"
+ },
+ {
+  "titular": "ALEJANDRO GUILLERMO HENKE",
+  "inmueble": "Inmueble adquirido 20/02/2019, Mar de Ajó",
+  "valor_cierre_2024_ars": "656324609.09",
+  "valor_cierre_2025_ars": "863395023.00",
+  "variacion_pct": "31.5488",
+  "cargo": "Vicepresidente/a",
+  "detalle": "Vicepresidente/a · Banco de la Nación Argentina Sociedad Anónima (BNA S.A.)"
+ },
+ {
+  "titular": "MAXIMO CARLOS KIRCHNER",
+  "inmueble": "Local 16189 m², El Calafate",
+  "valor_cierre_2024_ars": "618282466.03",
+  "valor_cierre_2025_ars": "813342921.71",
+  "variacion_pct": "31.5488",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Cruz · Unión por la Patria"
+ },
+ {
+  "titular": "MAXIMO CARLOS KIRCHNER",
+  "inmueble": "Lote 2100 m², El Calafate",
+  "valor_cierre_2024_ars": "606516323.10",
+  "valor_cierre_2025_ars": "797864706.50",
+  "variacion_pct": "31.5488",
+  "cargo": "Diputado",
+  "detalle": "Diputado · Santa Cruz · Unión por la Patria"
+ }
+]

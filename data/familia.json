@@ -1,0 +1,274 @@
+{
+ "personas": 405,
+ "con_conyuge": 261,
+ "sin_familiares": 78,
+ "hijos_dist": [
+  {
+   "label": "0 hijos",
+   "count": 151,
+   "share": 0.3728395061728395
+  },
+  {
+   "label": "1 hijo",
+   "count": 85,
+   "share": 0.20987654320987653
+  },
+  {
+   "label": "2 hijos",
+   "count": 94,
+   "share": 0.23209876543209876
+  },
+  {
+   "label": "3 hijos",
+   "count": 53,
+   "share": 0.1308641975308642
+  },
+  {
+   "label": "4 hijos",
+   "count": 13,
+   "share": 0.03209876543209877
+  },
+  {
+   "label": "5 hijos",
+   "count": 7,
+   "share": 0.01728395061728395
+  },
+  {
+   "label": "6 hijos",
+   "count": 2,
+   "share": 0.0049382716049382715
+  }
+ ],
+ "promedio_hijos": 2.09,
+ "hijos_stack": [
+  {
+   "label": "0 hijos",
+   "segs": [
+    {
+     "bloque": "PJ",
+     "n": 54
+    },
+    {
+     "bloque": "Otros",
+     "n": 48
+    },
+    {
+     "bloque": "LLA",
+     "n": 38
+    },
+    {
+     "bloque": "UCR",
+     "n": 6
+    },
+    {
+     "bloque": "PRO",
+     "n": 5
+    }
+   ],
+   "total": 151
+  },
+  {
+   "label": "1 hijo",
+   "segs": [
+    {
+     "bloque": "PJ",
+     "n": 40
+    },
+    {
+     "bloque": "Otros",
+     "n": 22
+    },
+    {
+     "bloque": "LLA",
+     "n": 16
+    },
+    {
+     "bloque": "PRO",
+     "n": 4
+    },
+    {
+     "bloque": "UCR",
+     "n": 3
+    }
+   ],
+   "total": 85
+  },
+  {
+   "label": "2 hijos",
+   "segs": [
+    {
+     "bloque": "PJ",
+     "n": 29
+    },
+    {
+     "bloque": "LLA",
+     "n": 27
+    },
+    {
+     "bloque": "Otros",
+     "n": 24
+    },
+    {
+     "bloque": "PRO",
+     "n": 10
+    },
+    {
+     "bloque": "UCR",
+     "n": 4
+    }
+   ],
+   "total": 94
+  },
+  {
+   "label": "3 hijos",
+   "segs": [
+    {
+     "bloque": "Otros",
+     "n": 18
+    },
+    {
+     "bloque": "PJ",
+     "n": 16
+    },
+    {
+     "bloque": "LLA",
+     "n": 14
+    },
+    {
+     "bloque": "PRO",
+     "n": 4
+    },
+    {
+     "bloque": "UCR",
+     "n": 1
+    }
+   ],
+   "total": 53
+  },
+  {
+   "label": "4 hijos",
+   "segs": [
+    {
+     "bloque": "Otros",
+     "n": 5
+    },
+    {
+     "bloque": "PJ",
+     "n": 4
+    },
+    {
+     "bloque": "LLA",
+     "n": 2
+    },
+    {
+     "bloque": "UCR",
+     "n": 2
+    }
+   ],
+   "total": 13
+  },
+  {
+   "label": "5 hijos",
+   "segs": [
+    {
+     "bloque": "PJ",
+     "n": 3
+    },
+    {
+     "bloque": "LLA",
+     "n": 3
+    },
+    {
+     "bloque": "Otros",
+     "n": 1
+    }
+   ],
+   "total": 7
+  },
+  {
+   "label": "6 hijos",
+   "segs": [
+    {
+     "bloque": "Otros",
+     "n": 1
+    },
+    {
+     "bloque": "PJ",
+     "n": 1
+    }
+   ],
+   "total": 2
+  }
+ ],
+ "por_partido": [
+  {
+   "bloque": "PJ",
+   "n": 147,
+   "hijos": 93,
+   "conyuge": 93,
+   "alguno": 115
+  },
+  {
+   "bloque": "Otros",
+   "n": 119,
+   "hijos": 71,
+   "conyuge": 81,
+   "alguno": 100
+  },
+  {
+   "bloque": "LLA",
+   "n": 100,
+   "hijos": 62,
+   "conyuge": 56,
+   "alguno": 78
+  },
+  {
+   "bloque": "PRO",
+   "n": 23,
+   "hijos": 18,
+   "conyuge": 18,
+   "alguno": 20
+  },
+  {
+   "bloque": "UCR",
+   "n": 16,
+   "hijos": 10,
+   "conyuge": 13,
+   "alguno": 14
+  }
+ ],
+ "grupos": [
+  {
+   "grupo": "Legisladores",
+   "n_total": 405,
+   "n": 405,
+   "conyuge": 261,
+   "hijos": 254,
+   "nada": 78
+  },
+  {
+   "grupo": "Políticos / Ejecutivo",
+   "n_total": 425,
+   "n": 336,
+   "conyuge": 223,
+   "hijos": 201,
+   "nada": 66
+  },
+  {
+   "grupo": "JGM",
+   "n_total": 529,
+   "n": 429,
+   "conyuge": 215,
+   "hijos": 227,
+   "nada": 148
+  },
+  {
+   "grupo": "Poder Judicial",
+   "n_total": 309,
+   "n": 3,
+   "conyuge": 2,
+   "hijos": 1,
+   "nada": 0
+  }
+ ]
+}
